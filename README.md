@@ -12,7 +12,7 @@ Udemy courses I've taken 🚩 Things I built (not copied!) after:
 * React - The Complete Guide (incl Hooks, React Router, Redux) 🚩 [Piti clone](https://github.com/lsliwaradioluz/react-training-app)
 
 Taking at the moment:
-* React Testing with Jest and Enzyme (that is a hard one) ❌ 
+* React Testing with Jest and Enzyme (that is a hard one)
 
 I'm also familiar with:
 * https://javascript.info/ -> going back to it quite often, especialy to refresh my knowledge on concepts like prototypes, classes, recursion and currying. I don't use them very often in my code and keep forgetting
