@@ -15,7 +15,7 @@ Taking at the moment:
 * React Testing with Jest and Enzyme (that is a hard one)
 
 I'm also familiar with:
-* https://javascript.info/ -> going back to it quite often, especialy to refresh my knowledge on concepts like prototypes, classes, recursion and currying. I don't use them very often in my code and keep forgetting
+* https://javascript.info/ -> going back to it quite often, especialy to refresh my knowledge on concepts like prototypes, classes, recursion and currying
 
 Other skills: 
 * CAE Cambridge English Certificate (C1)
